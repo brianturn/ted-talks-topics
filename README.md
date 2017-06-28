@@ -20,7 +20,7 @@ D3 visualizations: [collapsible tree](http://bl.ocks.org/anonymous/21033ce472e9f
 
 ## Tools used
 - nltk
-- sci-kit learn
+- scikit-learn: machine learning in Python
 - BeautifulSoup
 - D3.js
 - Pandas
