@@ -1,0 +1,678 @@
+{
+ "name": "Topic",
+ "children": [
+  {
+   "name": "Science",
+   "children": [
+    {
+     "name": "Medicine",
+     "children": [
+      {"name": "Pathology",
+       "children": [
+        {"name": "cancer"},
+        {"name": "patient"},
+        {"name": "disease"}, 
+        {"name": "doctor"},
+        {"name": "health"},
+        {"name": "drug"},
+        {"name": "treatment"},
+        {"name": "medical"},
+        {"name": "care"},
+        {"name": "surgery"},
+        {"name": "hospital"},
+        {"name": "medicine"},
+        {"name": "heart"},
+        {"name": "treatment"},
+        {"name": "blood"},
+        {"name": "die"},
+        {"name": "trial"},
+        {"name": "test"},
+        {"name": "hiv"},
+        {"name": "body"}
+      ]
+      },
+      {
+        "name": "Pharmacology",
+        "children":[
+          {"name": "cell"}, 
+          {"name": "body"},
+          {"name": "drug"},
+          {"name": "bone"},
+          {"name": "lab"},
+          {"name": "blood"},
+          {"name": "material"},
+          {"name": "molecule"},
+          {"name": "skin"},
+          {"name": "grow"},
+          {"name": "disease"},
+          {"name": "biology"},
+          {"name": "structure"},
+          {"name": "engineer"},
+          {"name": "environment"},
+          {"name": "light"},
+          {"name": "mouse"},
+          {"name": "heart"},
+          {"name": "form"},
+          {"name": "cancer"}
+        ]
+      }
+     ]
+    },
+    {
+     "name": "Biological Sciences",
+      "children": [
+        {
+        "name": "Genetics",
+          "children": [
+            {"name": "dna"}, 
+            {"name": "gene"},
+            {"name": "genome"},
+            {"name": "virus"},
+            {"name": "genetic"},
+            {"name": "species"},
+            {"name": "sequence"},
+            {"name": "bacteria"},
+            {"name": "human"},
+            {"name": "disease"},  
+            {"name": "molecule"},
+            {"name": "code"},
+            {"name": "biology"},
+            {"name": "animal"},
+            {"name": "protein"},
+            {"name": "evolution"},
+            {"name": "technology"},
+            {"name": "individual"},
+            {"name": "sample"},
+            {"name": "scientist"}
+          ]
+        },
+        {
+          "name": "Neuroscience",
+          "children": [
+            {"name": "brain"},
+            {"name": "neuron"},
+            {"name": "memory"},
+            {"name": "control"},
+            {"name": "behavior"},
+            {"name": "animal"},
+            {"name": "human"},
+            {"name": "signal"},
+            {"name": "pattern"},
+            {"name": "study"},
+            {"name": "region"},
+            {"name": "mind"},
+            {"name": "image"},
+            {"name": "activity"},
+            {"name": "mental"},
+            {"name": "arm"},
+            {"name": "gene"},
+            {"name": "visual"},
+            {"name": "body"},
+            {"name": "consciousness"}
+          ]
+        }
+      ]
+    },
+    {
+     "name": "Astronomy",
+     "children": [
+      {"name": "universe"},
+      {"name": "planet"},
+      {"name": "earth"},
+      {"name": "star"},
+      {"name": "galaxy"},
+      {"name": "space"},
+      {"name": "mar"},
+      {"name": "light"},
+      {"name": "sun"},
+      {"name": "particle"},
+      {"name": "solar"},
+      {"name": "science"},
+      {"name": "theory"},
+      {"name": "billion"},
+      {"name": "sky"},
+      {"name": "moon"},
+      {"name": "atmosphere"},
+      {"name": "dark"},
+      {"name": "physic"},
+      {"name": "hole"} 
+     ]
+    },
+    {
+      "name": "Technology", 
+      "children": [
+        {
+        "name": "Web Devices",
+        "children": [
+          {"name": "computer"},
+          {"name": "technology"},
+          {"name": "machine"},
+          {"name": "information"},
+          {"name": "internet"},
+          {"name": "digital"},
+          {"name": "device"},
+          {"name": "video"},
+          {"name": "software"},
+          {"name": "phone"},
+          {"name": "web"},
+          {"name": "human"},
+          {"name": "network"},
+          {"name": "sort"},
+          {"name": "create"},
+          {"name": "idea"},
+          {"name": "tool"},
+          {"name": "build"},
+          {"name": "able"},
+          {"name": "company"}
+        ]
+      },
+        {
+          "name": "Online Gaming",
+            "children": [
+              {"name": "game"},
+              {"name": "play"},
+              {"name": "video"},
+              {"name": "player"},
+              {"name": "win"},
+              {"name": "team"},
+              {"name": "girl"},
+              {"name": "fun"},
+              {"name": "activity"},
+              {"name": "ball"},
+              {"name": "interaction"},
+              {"name": "dollar"},
+              {"name": "rule"},
+              {"name": "physical"},
+              {"name": "social"},
+              {"name": "real"},
+              {"name": "learn"},
+              {"name": "online"},
+              {"name": "task"},
+              {"name": "level"}
+            ]
+        },
+        {
+          "name": "Biorobotics", 
+            "children": [
+              {"name": "robot"},
+              {"name": "leg"},
+              {"name": "machine"},
+              {"name": "animal"},
+              {"name": "human"},
+              {"name": "control"},
+              {"name": "build"},
+              {"name": "foot"},
+              {"name": "lab"},
+              {"name": "video"},
+              {"name": "interact"},
+              {"name": "task"},
+              {"name": "engineer"},
+              {"name": "technology"},
+              {"name": "body"},
+              {"name": "intelligence"},
+              {"name": "allow"},
+              {"name": "character"},
+              {"name": "version"}
+            ]
+        },
+        {
+          "name": "Data Science",
+            "children": [
+              {"name": "data"}, 
+              {"name": "information"},
+              {"name": "map"},
+              {"name": "number"},
+              {"name": "collect"},
+              {"name": "web"},
+              {"name": "decision"},
+              {"name": "image"},
+              {"name": "health"},
+              {"name": "rate"},
+              {"name": "point"},
+              {"name": "site"},
+              {"name": "text"},
+              {"name": "search"},
+              {"name": "phone"},
+              {"name": "google"},
+              {"name": "link"},
+              {"name": "predict"},
+              {"name": "scientist"},
+              {"name": "hospital"}
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Environmental Sciences",
+      "children": [
+        {
+          "name": "Oceanic Science", 
+            "children": [
+              {"name": "ocean"},
+              {"name": "water"},
+              {"name": "fish"},
+              {"name": "sea"},
+              {"name": "animal"},
+              {"name": "ice"},
+              {"name": "species"},
+              {"name": "planet"},
+              {"name": "surface"},
+              {"name": "earth"},
+              {"name": "deep"},
+              {"name": "area"},
+              {"name": "island"},
+              {"name": "foot"},
+              {"name": "ocean"},
+              {"name": "ship"},
+              {"name": "place"},
+              {"name": "blue"},
+              {"name": "land"}
+            ]
+        },
+        {
+          "name": "Renewable Energy", 
+            "children": [
+              {"name": "energy"},
+              {"name": "oil"},
+              {"name": "water"},
+              {"name": "fuel"},
+              {"name": "climate"},
+              {"name": "car"},
+              {"name": "carbon"},
+              {"name": "solar"},
+              {"name": "power"},
+              {"name": "nuclear"},
+              {"name": "electricity"},
+              {"name": "gas"},
+              {"name": "waste"},
+              {"name": "cost"},
+              {"name": "heat"},
+              {"name": "clean"},
+              {"name": "billion"},
+              {"name": "technology"},
+              {"name": "wind"},
+              {"name": "air"}
+            ]
+        },
+        {
+          "name": "Deforestation", 
+            "children": [
+              {"name": "forest"},
+              {"name": "tree"},
+              {"name": "species"},
+              {"name": "carbon"},
+              {"name": "plant"},
+              {"name": "animal"},
+              {"name": "nature"},
+              {"name": "river"},
+              {"name": "area"},
+              {"name": "land"},
+              {"name": "climate"},
+              {"name": "grow"},
+              {"name": "bird"},
+              {"name": "park"},
+              {"name": "planet"},
+              {"name": "human"},
+              {"name": "protect"},
+              {"name": "atmosphere"},
+              {"name": "earth"},
+              {"name": "natural"}
+            ]
+        }
+      ]
+    }
+   ]
+  },
+  {
+   "name": "Art",
+   "children": [
+    {
+     "name": "Audio/Visual",
+      "children": [
+        {
+          "name": "Voice", 
+            "children": [
+              {"name": "sound"},
+              {"name": "voice"},
+              {"name": "noise"},
+              {"name": "listen"},
+              {"name": "hear"},
+              {"name": "song"},
+              {"name": "sing"},
+              {"name": "play"},
+              {"name": "record"},
+              {"name": "wave"}, 
+              {"name": "color"},
+              {"name": "visual"},
+              {"name": "baby"},
+              {"name": "bird"},
+              {"name": "note"},
+              {"name": "light"},
+              {"name": "eye"},
+              {"name": "speech"},
+              {"name": "affect"},
+              {"name": "example"}
+            ]
+        },
+        {
+          "name": "Music", 
+            "children": [
+               {"name": "music"},
+               {"name": "play"},
+               {"name": "song"},
+               {"name": "piece"},
+               {"name": "sing"},
+               {"name": "video"},
+               {"name": "end"},
+               {"name": "dance"},
+               {"name": "hear"},
+               {"name": "note"},
+               {"name": "audience"},
+               {"name": "okay"},
+               {"name": "brother"},
+               {"name": "sorry"},
+               {"name": "dream"},
+               {"name": "excite"},
+               {"name": "century"},
+               {"name": "lady"},
+               {"name": "eye"},
+               {"name": "ted"} 
+            ]
+        },
+        {
+          "name": "Mediums", 
+            "children": [
+              {"name": "art"},
+              {"name": "artist"},
+              {"name": "image"},
+              {"name": "film"},
+              {"name": "paint"},
+              {"name": "museum"},
+              {"name": "story"},
+              {"name": "light"},
+              {"name": "create"},
+              {"name": "book"},
+              {"name": "object"},
+              {"name": "camera"},
+              {"name": "photograph"},
+              {"name": "photo"},
+              {"name": "picture"},
+              {"name": "project"},
+              {"name": "color"},
+              {"name": "draw"},
+              {"name": "piece"},
+              {"name": "visual"}
+            ]
+        }
+     ]
+    },
+    {
+      "name": "Architecture", 
+        "children": [
+          {"name": "building"},
+          {"name": "build"},
+          {"name": "architecture"},
+          {"name": "space"},
+          {"name": "material"},
+          {"name": "project"},
+          {"name": "structure"},
+          {"name": "house"},
+          {"name": "site"},
+          {"name": "wall"},
+          {"name": "community"},
+          {"name": "create"},
+          {"name": "design"},
+          {"name": "water"},
+          {"name": "place"},
+          {"name": "air"},
+          {"name": "light"},
+          {"name": "form"},
+          {"name": "open"},
+          {"name": "idea"}
+        ]
+    },
+    {
+      "name": "Urban Planning",
+        "children": [
+          {"name": "city"},
+          {"name": "car"},
+          {"name": "street"},
+          {"name": "urban"},
+          {"name": "map"},
+          {"name": "neighborhood"},
+          {"name": "park"},
+          {"name": "york"},
+          {"name": "community"},
+          {"name": "place"},
+          {"name": "space"},
+          {"name": "network"},
+          {"name": "public"},
+          {"name": "infrastructure"},
+          {"name": "london"},
+          {"name": "home"},
+          {"name": "mile"},
+          {"name": "road"},
+          {"name": "green"},
+          {"name": "walk"}
+        ]
+    }
+   ]
+  },
+  {
+   "name": "People",
+   "children": [
+    {
+     "name": "Relationships",
+     "children": [
+        {
+          "name": "Life Wisdom", 
+            "children": [
+              {"name": "love"},
+              {"name": "feel"},
+              {"name": "story"},
+              {"name": "ask"},
+              {"name": "man"},
+              {"name": "great"},
+              {"name": "guy"},
+              {"name": "old"},
+              {"name": "experience"},
+              {"name": "write"},
+              {"name": "walk"},
+              {"name": "person"},
+              {"name": "hand"},
+              {"name": "believe"},
+              {"name": "friend"},
+              {"name": "leave"},
+              {"name": "end"},
+              {"name": "turn"},
+              {"name": "moment"},
+              {"name": "god"}
+            ]
+          },
+        {
+          "name": "Gender Dynamics", 
+            "children": [
+              {"name": "woman"},
+              {"name": "men"},
+              {"name": "girl"},
+              {"name": "sex"},
+              {"name": "gender"},
+              {"name": "female"},
+              {"name": "violence"},
+              {"name": "male"},
+              {"name": "man"},
+              {"name": "young"},
+              {"name": "daughter"},
+              {"name": "mother"},
+              {"name": "story"},
+              {"name": "boy"},
+              {"name": "black"},
+              {"name": "mom"},
+              {"name": "voice"},
+              {"name": "sister"},
+              {"name": "medium"},
+              {"name": "father"}
+              ]
+            }
+        ]
+      },
+      {
+        "name": "Public Policy",
+        "children": [
+        {
+          "name": "Education & STEM", 
+            "children": [
+              {"name": "kid"},
+              {"name": "school"},
+              {"name": "teacher"},
+              {"name": "student"},
+              {"name": "education"},
+              {"name": "teach"},
+              {"name": "learn"},
+              {"name": "class"},
+              {"name": "college"},
+              {"name": "math"},
+              {"name": "girl"},
+              {"name": "high"},
+              {"name": "graduate"},
+              {"name": "parent"},
+              {"name": "coummunity"},
+              {"name": "university"},
+              {"name": "program"},
+              {"name": "science"},
+              {"name": "ask"},
+              {"name": "child"}
+            ]
+        },
+        {
+          "name": "Humanitarian Aid", 
+            "children": [
+              {"name": "country"}, 
+              {"name": "government"},
+              {"name": "africa"},
+              {"name": "dollar"},
+              {"name": "state"},
+              {"name": "money"},
+              {"name": "company"},
+              {"name": "global"},
+              {"name": "economy"},
+              {"name": "market"},
+              {"name": "business"},
+              {"name": "social"},
+              {"name": "economic"},
+              {"name": "china"},
+              {"name": "democracy"},
+              {"name": "problem"},
+              {"name": "war"},
+              {"name": "aid"},
+              {"name": "society"},
+              {"name": "million"}
+            ]
+        },
+        {
+          "name": "Early Education", 
+            "children": [
+              {"name": "child"},
+              {"name": "family"},
+              {"name": "mother"},
+              {"name": "parent"},
+              {"name": "baby"},
+              {"name": "father"},
+              {"name": "school"},
+              {"name": "girl"},
+              {"name": "boy"},
+              {"name": "india"},
+              {"name": "country"},
+              {"name": "story"},
+              {"name": "home"},
+              {"name": "old"},
+              {"name": "village"},
+              {"name": "son"},
+              {"name": "ppor"},
+              {"name": "daughter"},
+              {"name": "young"},
+              {"name": "health"}
+            ]
+        },
+        {
+          "name": "GMOs", 
+            "children": [
+              {"name": "food"},
+              {"name": "plant"},
+              {"name": "eat"},
+              {"name": "farmer"},
+              {"name": "farm"},
+              {"name": "grow"},
+              {"name": "feed"},
+              {"name": "produce"},
+              {"name": "waste"},
+              {"name": "water"},
+              {"name": "species"},
+              {"name": "healthy"},
+              {"name": "chemical"},
+              {"name": "animal"},
+              {"name": "green"},
+              {"name": "kid"},
+              {"name": "production"},
+              {"name": "fish"},
+              {"name": "protein"},
+              {"name": "land"}
+            ]
+        }
+        ]
+      },
+      {
+        "name": "Creative Process", 
+
+          "children": [
+            {"name": "design"},
+            {"name": "designer"},
+            {"name": "product"},
+            {"name": "object"},
+            {"name": "beautiful"},
+            {"name": "idea"},
+            {"name": "solution"},
+            {"name": "sort"},
+            {"name": "process"},
+            {"name": "tool"},
+            {"name": "form"},
+            {"name": "technology"},
+            {"name": "art"},
+            {"name": "project"},
+            {"name": "print"},
+            {"name": "material"},
+            {"name": "hospital"},
+            {"name": "stuff"},
+            {"name": "quite"},
+            {"name": "big"}
+          ]
+      },
+      {
+        "name": "Communication", 
+          "children":[
+            {"name": "language"},
+            {"name": "word"},
+            {"name": "english"},
+            {"name": "write"},
+            {"name": "book"},
+            {"name": "speak"},
+            {"name": "sentence"},
+            {"name": "chinese"},
+            {"name": "letter"},
+            {"name": "read"},
+            {"name": "text"},
+            {"name": "speech"},
+            {"name": "example"},
+            {"name": "learn"},
+            {"name": "teach"},
+            {"name": "rule"},
+            {"name": "computer"},
+            {"name": "idea"},
+            {"name": "culture"},
+            {"name": "teaching"}
+          ]
+      }
+    ]
+  }
+  ]
+} 
