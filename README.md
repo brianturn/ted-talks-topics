@@ -14,7 +14,7 @@ I completed this project while attending [Metis](https://www.thisismetis.com/), 
 
 The IPython Notebooks are [here](https://github.com/brianturn/ted-talks-topics/tree/master/notebooks).
 
-The PDF is [here](https://github.com/brianturn/ted-talks-topics/blob/master/presentation/turner_presentation_ted.pdf). 
+The presentation is [here](https://github.com/brianturn/ted-talks-topics/blob/master/presentation/turner_presentation_ted.pdf). 
 
 D3 visualizations: [collapsible tree](http://bl.ocks.org/anonymous/21033ce472e9f6699acd7597c47325ec), [word cloud](https://github.com/brianturn/ted-talks-topics/blob/master/viz_ted/word_cloud.png), [sentiment graph](https://github.com/brianturn/ted-talks-topics/blob/master/viz_ted/sentiments_viz.png), and [intertopic distance cluster](https://github.com/brianturn/ted-talks-topics/blob/master/viz_ted/intertopic_distance.png)
 
